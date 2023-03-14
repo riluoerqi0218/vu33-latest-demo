@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d0d0d0;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="画板_1" data-name="画板 1">
+    <path id="矩形_1115_拷贝" data-name="矩形 1115 拷贝" class="cls-1" d="M11.5,2A4.5,4.5,0,1,1,7,6.5,4.5,4.5,0,0,1,11.5,2ZM3.015,22C3.011,21.833,3,21.669,3,21.5,3,15.7,5.7,12,11.5,12S20,15.7,20,21.5c0,0.169-.011.333-0.015,0.5H3.015Z"/>
+  </g>
+</svg>
